@@ -79,3 +79,12 @@ let h=52;
 let cani = (h >= 60) ? "reached" : "unreached";
 
 console.log("reteierment age is  " + cani);
+
+//while loop
+let k=0;
+
+while(k < 15){
+  result += "the current count is" + k;
+  console.log(result);
+  k++;
+}
