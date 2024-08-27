@@ -28,4 +28,3 @@ console.log(a||b)
 console.log(!b)
 console.log(!a)
 
-//Data Types
