@@ -28,3 +28,22 @@ console.log(a||b)
 console.log(!b)
 console.log(!a)
 
+//Data Types
+let d = 42;
+console.log(typeof d); // "number"
+
+let h = "Hello, world!";
+console.log(typeof h); // "string"
+
+let v = true;
+console.log(typeof v); // "boolean"
+
+let obj = { name: "Alice" };
+console.log(typeof obj); // "object"
+
+let func = function() {};
+console.log(typeof func); // "function"
+
+let und;
+console.log(typeof und); // "undefined"
+
